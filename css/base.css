@@ -1,0 +1,42 @@
+body{
+    background-color: #E08F62;
+    background-color: #FFEFA0;
+    background-color: #B6EB7A;
+    background-color: #585F6C;
+    background-color: #E08F62;
+    background: url("../__STATIC__/index/img/background/th.jfif");
+}
+
+#contents h1{
+    color: rgb(247, 215, 244);
+}
+
+#contents
+{
+    width: 30%;
+    height: auto;
+    border: rgba(0, 0, 0, 0.295) 1px solid;
+    margin: 0 auto;
+    margin-top: 10%;
+    text-align: center;
+    background-color: #0c0c0c91;
+}
+
+.form
+{
+    margin-top: 20%;
+}
+
+.button
+{
+    margin-top: 10px;
+    width: 200;
+    height: 60;
+    background-color: #00000000;
+    color: #bfa;
+}
+
+.form div:last-child
+{
+    margin-bottom: 10%;
+}
