@@ -4,7 +4,7 @@ body{
     background-color: #B6EB7A;
     background-color: #585F6C;
     background-color: #E08F62;
-    background: url("../__STATIC__/index/img/background/th.jfif");
+    background: url("../static/index/img/background/th.jfif");
 }
 
 #contents h1{
@@ -29,12 +29,17 @@ body{
 
 .button
 {
+    display: block;
+    margin: 0 auto;
     margin-top: 10px;
     width: 200;
     height: 60;
     background-color: #00000000;
     color: #bfa;
 }
+
+
+
 
 .form div:last-child
 {
